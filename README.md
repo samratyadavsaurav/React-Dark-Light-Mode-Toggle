@@ -1,12 +1,12 @@
-# React + Vite
+# React Dark/Light Mode Toggle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React project that demonstrates how to implement a **Light Mode** and **Dark Mode** theme toggle using React.  
+With just a single button, users can switch between dark and light themes, providing a better user experience.
 
-Currently, two official plugins are available:
+##  Features
+- Toggle between **Dark Mode** and **Light Mode**
+- Built with **React Hooks (useState)**
+- Simple and clean UI
+- Easy to customize
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
